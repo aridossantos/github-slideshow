@@ -2,4 +2,4 @@ layout: slide
 titel: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to get back
+How about a **hiking** tour next Tuesday? :)
